@@ -1,0 +1,17 @@
+baseurl = "/"
+title = "ArinzeOkorji's blog"
+theme = "Blogpaper-master"
+author = "Arinze Okorji"
+name = "Arinze Okorji"
+copyright =  "All rights reserved"
+languageCode = "en"
+[menu]
+    [[menu.main]]
+    name = 'About'
+    url = '/about'
+  
+[params]
+    description = 'Code tutorials'
+
+
+  

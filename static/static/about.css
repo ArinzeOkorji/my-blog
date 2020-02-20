@@ -1,0 +1,7 @@
+img[src$='#img'] {
+    margin: 0 auto;
+}
+
+img {
+    float: right;
+}
