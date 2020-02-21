@@ -85,7 +85,7 @@ It is only within the callback function you get hold of the database in question
 
 ## What are object stores and why do I need them?
 
-When you create a database, you can store data directly into it, there’s no rule against that. But to help you easily sort and retrieve data, your best bet is to create an object-store. According to MDN, 
+When you create a database, you can store data directly into it, there’s no rule against that. But to help you easily sort and retrieve data, your best bet is to create an object-store. According to [MDN](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore), 
 
 “Records within an object store are sorted according to their keys. This sorting enables fast insertion, look-up, and ordered retrieval.”
 
@@ -123,7 +123,7 @@ taskDatabasePromise.onupgradeneeded = (event) => {
 Using key paths helps you query the object store more efficiently.
 
 **Note:** When using key path, every object inserted should include the property which acts as the key path.
-Find more information on key paths here.
+Find more information on key paths [here](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API/Basic_Concepts_Behind_IndexedDB#gloss_keypath).
 
 ## What are transactions?
 
@@ -167,7 +167,7 @@ taskDatabasePromise.onsuccess = (event) => {
 }
 {{< /highlight >}}
 
-For more details on verbs, visit here.
+For more details on verbs, visit [here](https://developer.mozilla.org/en-US/docs/Web/API/IDBObjectStore).
 
 
 
