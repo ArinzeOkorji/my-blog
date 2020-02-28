@@ -11,7 +11,7 @@ banner:
   src: banner.png
 ---
 
-This tutorial provides the basics for getting started with indexedDB.
+*IndexedDb is a great way to store persistent data on the browser. This guide aims to introduce the basic concepts of the technology to help you started.*
 <!--more-->
 
 
