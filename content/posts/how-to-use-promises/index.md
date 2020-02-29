@@ -16,7 +16,7 @@ banner:
 ## Introduction
 A promise is an asynchronous operation that returns a value or an error. Unlike synchronous operations that go step-by-step from top to bottom, we usually do not know when promises would be completed. 
 
-This period of incompletion of a is referred to as a *pending state* of a promise.
+This period of incompletion is referred to as a *pending state* of a promise.
 
 Once a promise is completed, it enters a *settled state*.
 
