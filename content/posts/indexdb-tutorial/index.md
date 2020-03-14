@@ -11,7 +11,7 @@ banner:
   src: banner.png
 ---
 
-*IndexedDb is a great way to store persistent data on the browser. This guide aims to introduce the basic concepts of the technology to help you started.*
+*IndexedDb is a great way to store persistent data on the browser. This guide aims at introducing the basic concepts of the technology to help you get started.*
 <!--more-->
 
 

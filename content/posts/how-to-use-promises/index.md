@@ -10,7 +10,7 @@ banner:
  src: banner.png
 ---
 
-*This guide is aimed to help newcomers get familiar with the basic concepts for working with javascript promises.*
+*This guide is aimed at helping newcomers get familiar with the basic concepts for working with javascript promises.*
 <!--more-->
 
 ## Introduction
