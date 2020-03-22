@@ -7,7 +7,7 @@ categories:
   - javascript
   - Front-end Development
 banner: 
- src: banner.png
+ src: banner.svg
 ---
 
 *This guide is aimed at helping newcomers get familiar with the basic concepts for working with javascript promises.*

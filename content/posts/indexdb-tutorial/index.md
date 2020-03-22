@@ -8,7 +8,7 @@ categories:
   - JavaScript
   - Front-end development
 banner:
-  src: banner.png
+  src: banner.svg
 ---
 
 *IndexedDb is a great way to store persistent data on the browser. This guide aims at introducing the basic concepts of the technology to help you get started.*
