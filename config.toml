@@ -12,6 +12,9 @@ languageCode = "en"
   
 [params]
     description = 'Code tutorials'
+
+[markup.goldmark.renderer]
+  unsafe= true
     
 
 

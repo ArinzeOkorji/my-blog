@@ -421,3 +421,8 @@ template {
 img[src$='#authorImage'] {
     float: right;
 }
+
+.text-center {
+    display: flex;
+    justify-content: center;
+}
