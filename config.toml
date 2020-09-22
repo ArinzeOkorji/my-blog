@@ -9,6 +9,14 @@ languageCode = "en"
     [[menu.main]]
     name = 'About'
     url = '/about'
+    
+    [[menu.main]]
+    name = 'Portfolio'
+    url = '/portfolio'
+
+    [[menu.main]]
+    name = 'Articles'
+    url = '/'
   
 [params]
     description = 'Code tutorials'
